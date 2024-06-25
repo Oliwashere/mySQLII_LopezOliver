@@ -4,7 +4,7 @@
 
 create database autorental;
 
-use database autorental;
+use autorental;
 
 CREATE TABLE Sucursal (
     id INT AUTO_INCREMENT PRIMARY KEY,
